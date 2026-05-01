@@ -1,0 +1,13 @@
+title: Leal Family Recipes
+description: A personal collection of family recipes.
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
+exclude:
+  - templates/
