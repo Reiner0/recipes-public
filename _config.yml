@@ -3,7 +3,6 @@ description: A personal collection of family recipes.
 theme: jekyll-theme-cayman
 
 plugins:
-  - jekyll-readme-index
   - jekyll-relative-links
 
 relative_links:
