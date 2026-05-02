@@ -1,0 +1,16 @@
+{% if page.ingredients %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": {{ page.title | jsonify }},
+  "author": {"@type": "Person", "name": "Leal Family"},
+  "prepTime": {{ page.prep_time_iso | jsonify }},
+  "cookTime": {{ page.cook_time_iso | jsonify }},
+  "recipeYield": {{ page.servings | jsonify }},
+  "keywords": {{ page.tags | join: ", " | jsonify }},
+  "recipeIngredient": {{ page.ingredients | jsonify }},
+  "recipeInstructions": [{% for step in page.instructions %}{"@type": "HowToStep", "text": {{ step | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}]
+}
+</script>
+{% endif %}

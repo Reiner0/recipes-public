@@ -1,9 +1,39 @@
 ---
 title: Boba Tea
-tags: [instant-pot, sweet, vegetarian, gluten-free]
+tags:
+- instant-pot
+- sweet
+- vegetarian
+- gluten-free
 prep_time: 5min
 cook_time: 2min
 servings: 4
+
+prep_time_iso: PT5M
+cook_time_iso: PT2M
+ingredients:
+- 'For the Boba:'
+- 1 cup large boba (see Note) or large tapioca pearls
+- 1½ cups water
+- ⅔ cup sugar
+- 'For the Tea:'
+- 4 cups strong-brewed black tea
+- 1 cup ice cubes
+- ⅔ cup whole milk
+- 1 tablespoon sugar
+instructions:
+- 'Combine boba ingredients: In the Instant Pot, combine the boba, water, and sugar.'
+- 'Pressure cook: Secure the lid on the pot. Close the pressure-release valve. Select
+  MANUAL and set the pot at HIGH pressure for 2 minutes. At the end of the cooking
+  time, allow the pot to sit undisturbed for 5 minutes, then release any remaining
+  pressure.'
+- 'Cool the boba: Allow the boba to cool in the pot, or pour them and the sugar syrup
+  into a glass jar to cool at room temperature for 15 to 20 minutes. The boba will
+  look quite large but will shrink as they cool. The boba can be kept in the refrigerator
+  in the sugar syrup for a few hours, but they don''t store particularly well.'
+- 'Mix the tea: In a glass pitcher, stir together the tea, ice cubes, milk, and sugar.'
+- 'Assemble and serve: Using a slotted spoon, divide the boba among four glasses.
+  Pour the tea over the boba and serve immediately.'
 ---
 
 ## Ingredients

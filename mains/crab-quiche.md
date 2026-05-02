@@ -1,9 +1,48 @@
 ---
 title: Crustless Crab Quiche
-tags: [instant-pot, breakfast, seafood, gluten-free, low-carb]
+tags:
+- instant-pot
+- breakfast
+- seafood
+- gluten-free
+- low-carb
 prep_time: 15min
 cook_time: 25min
 servings: 4
+
+prep_time_iso: PT15M
+cook_time_iso: PT25M
+ingredients:
+- Vegetable oil, for greasing
+- 4 large eggs
+- 1 cup half-and-half or heavy cream
+- 1 cup shredded Swiss cheese
+- 1 cup chopped scallions
+- 1 teaspoon black pepper
+- 1 teaspoon smoked paprika
+- ½ teaspoon herbes de Provence
+- ½ teaspoon salt
+- 10 ounces imitation crabmeat, real crabmeat, or a mix of crabmeat and chopped raw
+  shrimp (about 2 cups)
+- 1½ cups water
+instructions:
+- 'Prepare pan: Generously grease a 6- or 7-inch nonstick springform pan with vegetable
+  oil. Set the pan on a sheet of aluminum foil that is larger than the pan and crimp
+  the foil around the bottom of the pan. This helps prevent the pan from leaking,
+  as springform pans tend to do.'
+- 'Mix filling: In a large bowl, whisk together the eggs and half-and-half. Add the
+  cheese, scallions, pepper, paprika, herbes de Provence, and salt. Stir with a fork
+  to combine. Add the imitation crabmeat and stir to combine.'
+- 'Fill pan: Pour the egg mixture into the prepared pan. Cover the pan loosely with
+  foil. Pour the water into the Instant Pot. Set a steamer rack in the pot. Place
+  the pan on the steamer rack.'
+- 'Pressure cook: Secure the lid on the pot. Close the pressure-release valve. Select
+  MANUAL and set the pot at HIGH pressure for 25 minutes. At the end of the cooking
+  time, allow the pot to sit undisturbed for 10 minutes, then release any remaining
+  pressure.'
+- 'Remove and serve: Using silicone oven mitts, very carefully remove the pan from
+  the pot. Using a knife, loosen the sides of the quiche from the pan and remove the
+  springform ring. Serve warm or at room temperature.'
 ---
 
 ## Ingredients

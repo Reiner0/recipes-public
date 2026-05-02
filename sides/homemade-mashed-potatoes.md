@@ -1,9 +1,43 @@
 ---
 title: Homemade Mashed Potatoes
-tags: [christmas, side, holiday]
+tags:
+- christmas
+- side
+- holiday
 prep_time: 10min
 cook_time: 25min
 servings: 8-10
+
+prep_time_iso: PT10M
+cook_time_iso: PT25M
+ingredients:
+- 3.5 lbs (1.6kg) Yukon Gold potatoes (about 4 large potatoes, ~0.85 lb each)
+- 3.5 tsp salt, plus more to taste
+- 6 tbsp salted butter, at room temperature
+- ½ cup (120ml) sour cream
+- 1 cup (240ml) half & half
+- ½ tsp black pepper
+instructions:
+- 'Prep dairy: Add half & half and sour cream to small bowl and whisk to combine.
+  Set aside and allow to come to room temperature. It shouldn''t be cold when added
+  to the potatoes.'
+- 'Prep potatoes: Peel each potato and rinse quickly to remove any dirt/residue from
+  peel. Cut into ¾-inch slices and place in large pot. Add cold water until fully
+  submerged.'
+- 'Boil gently: Slowly bring to gentle boil—do not boil rapidly. This ensures potatoes
+  cook evenly and prevents them from falling apart. Once soft boil is reached, add
+  3.5 tsp salt.'
+- 'Cook: Cook for 25 minutes or until potatoes are very fork tender. Don''t undercook
+  or they''ll be lumpy when mashed. Turn heat off.'
+- 'Drain and steam: Drain all water. Let potatoes sit in warm pot for 5 minutes to
+  allow most steam to escape.'
+- 'Add butter: Add butter to potatoes and allow it to gradually melt.'
+- 'Mash: Drizzle ¾ of the half & half/sour cream mixture over potatoes and add pepper.
+  Mash with potato masher (not an electric mixer) until soft and creamy. Don''t over-mash
+  or consistency will become gluey. Add remaining dairy only if slightly creamier
+  texture is desired.'
+- 'Season and serve: Taste and add more salt/pepper if needed. Transfer to serving
+  dish and serve.'
 ---
 
 ## Ingredients

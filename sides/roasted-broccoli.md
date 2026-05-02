@@ -1,9 +1,32 @@
 ---
 title: Roasted Broccoli
-tags: [christmas, side, vegetables, quick]
+tags:
+- christmas
+- side
+- vegetables
+- quick
 prep_time: 5min
 cook_time: 20min
 servings: 4
+
+prep_time_iso: PT5M
+cook_time_iso: PT20M
+ingredients:
+- 1 lb (450g) broccoli florets
+- 2 tbsp olive oil
+- ½ tsp salt
+- ¼ tsp pepper
+- 3 cloves garlic, minced
+instructions:
+- Preheat oven to 425°F.
+- 'Prep broccoli: Wash broccoli and pat completely dry.'
+- 'Season: Place broccoli on baking sheet (preferably dark) and drizzle with olive
+  oil. Sprinkle with salt, pepper, and garlic. Toss to coat.'
+- 'Arrange: Spread in even layer on sheet without overlapping so edges get crisp.'
+- 'First bake: Bake for 10 minutes and remove from oven. Flip florets over and redistribute
+  around baking sheet.'
+- 'Finish: Bake for 5-10 more minutes until desired color is achieved (18 minutes
+  total gives good browning). Remove and serve with lemon wedges if desired.'
 ---
 
 ## Ingredients

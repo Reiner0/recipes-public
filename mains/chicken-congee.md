@@ -1,9 +1,37 @@
 ---
 title: Chicken Congee
-tags: [instant-pot, asian, chinese, chicken, main, comfort-food]
+tags:
+- instant-pot
+- asian
+- chinese
+- chicken
+- main
+- comfort-food
 prep_time: 10min
 cook_time: 20min
 servings: 4
+
+prep_time_iso: PT10M
+cook_time_iso: PT20M
+ingredients:
+- 6 cups water
+- 1 pound boneless, skinless chicken thighs, cut into bite-size pieces
+- 1 cup jasmine rice, rinsed and drained
+- 2 tablespoons minced fresh ginger
+- 1 tablespoon minced garlic
+- 1 tablespoon toasted sesame oil, plus more for garnish
+- 1 tablespoon soy sauce
+- 1 teaspoon salt
+- 1 teaspoon black pepper (optional)
+- Chopped scallions, for garnish
+instructions:
+- 'Combine ingredients: In the Instant Pot, combine the water, chicken, rice, ginger,
+  garlic, sesame oil, soy sauce, salt, and pepper (if using).'
+- 'Pressure cook: Secure the lid on the pot. Close the pressure-release valve. Select
+  the PORRIDGE setting (see Note). At the end of the cooking time, allow the pot to
+  sit undisturbed for 10 minutes, then release any remaining pressure.'
+- 'Serve: Stir to combine the ingredients. Divide among four bowls. Drizzle each with
+  toasted sesame oil, sprinkle with scallions, and serve.'
 ---
 
 ## Ingredients

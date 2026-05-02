@@ -1,9 +1,37 @@
 ---
 title: Pulled Pork
-tags: [meat, smoker, main, bbq]
+tags:
+- meat
+- smoker
+- main
+- bbq
 prep_time: 15min
 cook_time: 6-7h
 servings: 10-12
+
+prep_time_iso: PT15M
+cook_time_iso: PT6H
+ingredients:
+- 'Pork:'
+- 1 pork butt (shoulder or Boston butt, 8-10 lbs)
+- 'Dry Rub:'
+- ½ cup black pepper
+- ½ cup salt
+- ¼ cup paprika
+- ¼ cup onion powder
+- ¼ cup garlic powder
+- 'Other:'
+- Olive oil
+instructions:
+- 'Prep pork: Trim any overhanging fat.'
+- 'Season: Rub pork with olive oil. Apply dry rub generously all over.'
+- 'Start smoking: Place in smoker at 275°F with fat side up. If fat cap isn''t rendering
+  after a few hours, flip it over.'
+- 'Wrap: After 4-5 hours when fat cap splits, wrap tightly in foil and add water pan
+  to smoker.'
+- 'Increase temp: After 1 hour wrapped, increase smoker temp to 300°F.'
+- 'Finish: Continue cooking until internal temp reaches 200-205°F.'
+- 'Rest: Let rest for at least 30 minutes before pulling apart.'
 ---
 
 ## Ingredients
