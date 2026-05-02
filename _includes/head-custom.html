@@ -5,6 +5,7 @@
   "@type": "Recipe",
   "name": {{ page.title | jsonify }},
   "author": {"@type": "Person", "name": "Leal Family"},
+  {% if page.image %}"image": {{ '/images/' | append: page.image | absolute_url | jsonify }},{% endif %}
   "prepTime": {{ page.prep_time_iso | jsonify }},
   "cookTime": {{ page.cook_time_iso | jsonify }},
   "recipeYield": {{ page.servings | jsonify }},

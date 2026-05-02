@@ -1,6 +1,8 @@
 title: Leal Family Recipes
 description: A personal collection of family recipes.
 theme: jekyll-theme-cayman
+url: https://reiner0.github.io
+baseurl: /recipes-public
 
 plugins:
   - jekyll-relative-links
@@ -9,5 +11,12 @@ relative_links:
   enabled: true
   collections: false
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: recipe
+
 exclude:
   - templates/
+  - scripts/

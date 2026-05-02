@@ -5,6 +5,7 @@ tags:
 - main
 - italian
 - make-ahead
+image: lasagna-roll-ups.png
 prep_time: 20min
 cook_time: 35min
 servings: 12 roll-ups (6-8 people)

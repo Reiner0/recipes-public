@@ -1,0 +1,7 @@
+---
+layout: default
+---
+{% if page.image %}
+<img src="{{ '/images/' | append: page.image | relative_url }}" alt="{{ page.title }}" style="max-width: 100%; border-radius: 4px; margin-bottom: 1.5rem;">
+{% endif %}
+{{ content }}
