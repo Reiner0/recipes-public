@@ -1,5 +1,6 @@
 ---
 title: Poblano Chicken Soup
+image: poblano-chicken-soup.jpg
 tags:
 - instant-pot
 - soup
@@ -9,7 +10,6 @@ tags:
 prep_time: 1h 15min
 cook_time: 15min
 servings: 4
-
 prep_time_iso: PT1H15M
 cook_time_iso: PT15M
 ingredients:

@@ -1,5 +1,6 @@
 ---
 title: Shrimp & Sausage Boil
+image: shrimp-and-sausage-boil.jpg
 tags:
 - instant-pot
 - seafood
@@ -9,7 +10,6 @@ tags:
 prep_time: 15min
 cook_time: 4min
 servings: 4
-
 prep_time_iso: PT15M
 cook_time_iso: PT4M
 ingredients:

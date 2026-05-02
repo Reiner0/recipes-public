@@ -1,5 +1,6 @@
 ---
 title: Sweet Corn Chicken Soup
+image: sweet-corn-chicken-soup.jpg
 tags:
 - instant-pot
 - soup
@@ -10,7 +11,6 @@ tags:
 prep_time: 10min
 cook_time: 10min
 servings: 6
-
 prep_time_iso: PT10M
 cook_time_iso: PT10M
 ingredients:

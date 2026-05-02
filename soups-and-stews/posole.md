@@ -1,5 +1,6 @@
 ---
 title: Pork & Hominy Stew (Posole)
+image: posole.jpg
 tags:
 - instant-pot
 - mexican
@@ -9,7 +10,6 @@ tags:
 prep_time: 10min
 cook_time: 30min
 servings: 8
-
 prep_time_iso: PT10M
 cook_time_iso: PT30M
 ingredients:

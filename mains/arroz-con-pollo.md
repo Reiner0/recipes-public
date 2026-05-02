@@ -1,5 +1,6 @@
 ---
 title: Arroz Con Pollo
+image: arroz-con-pollo.jpg
 tags:
 - instant-pot
 - mexican
@@ -9,7 +10,6 @@ tags:
 prep_time: 20min
 cook_time: 6min
 servings: 4-6
-
 prep_time_iso: PT20M
 cook_time_iso: PT6M
 ingredients:

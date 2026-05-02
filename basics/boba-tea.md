@@ -1,5 +1,6 @@
 ---
 title: Boba Tea
+image: boba-tea.jpg
 tags:
 - instant-pot
 - sweet
@@ -8,7 +9,6 @@ tags:
 prep_time: 5min
 cook_time: 2min
 servings: 4
-
 prep_time_iso: PT5M
 cook_time_iso: PT2M
 ingredients:

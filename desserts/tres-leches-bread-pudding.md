@@ -1,5 +1,6 @@
 ---
 title: Tres Leches Bread Pudding
+image: tres-leches-bread-pudding.jpg
 tags:
 - instant-pot
 - dessert
@@ -8,7 +9,6 @@ tags:
 prep_time: 25min
 cook_time: 45min
 servings: 6
-
 prep_time_iso: PT25M
 cook_time_iso: PT45M
 ingredients:

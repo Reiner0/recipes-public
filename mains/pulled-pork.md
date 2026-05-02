@@ -1,5 +1,6 @@
 ---
 title: Pulled Pork
+image: pulled-pork.jpg
 tags:
 - meat
 - smoker
@@ -8,7 +9,6 @@ tags:
 prep_time: 15min
 cook_time: 6-7h
 servings: 10-12
-
 prep_time_iso: PT15M
 cook_time_iso: PT6H
 ingredients:

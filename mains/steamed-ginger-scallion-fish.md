@@ -1,5 +1,6 @@
 ---
 title: Steamed Ginger Scallion Fish
+image: steamed-ginger-scallion-fish.jpg
 tags:
 - instant-pot
 - fish
@@ -11,7 +12,6 @@ tags:
 prep_time: 30min
 cook_time: 2min
 servings: 4
-
 prep_time_iso: PT30M
 cook_time_iso: PT2M
 ingredients:

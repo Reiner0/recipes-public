@@ -1,5 +1,6 @@
 ---
 title: Corn Pudding
+image: corn-pudding.jpg
 tags:
 - instant-pot
 - side
@@ -7,7 +8,6 @@ tags:
 prep_time: 15min
 cook_time: 25min
 servings: 8
-
 prep_time_iso: PT15M
 cook_time_iso: PT25M
 ingredients:

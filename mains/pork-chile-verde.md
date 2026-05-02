@@ -1,5 +1,6 @@
 ---
 title: Pork Chile Verde
+image: pork-chile-verde.jpg
 tags:
 - instant-pot
 - pork
@@ -10,7 +11,6 @@ tags:
 prep_time: 15min
 cook_time: 30min
 servings: 8
-
 prep_time_iso: PT15M
 cook_time_iso: PT30M
 ingredients:

@@ -1,5 +1,6 @@
 ---
 title: Tzatziki
+image: tzatziki.jpg
 tags:
 - instant-pot
 - greek
@@ -9,7 +10,6 @@ tags:
 prep_time: 10min
 cook_time: 0min
 servings: 2 cups (4 servings)
-
 prep_time_iso: PT10M
 ingredients:
 - 1 large cucumber, peeled and grated (about 2 cups)

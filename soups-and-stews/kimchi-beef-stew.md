@@ -1,5 +1,6 @@
 ---
 title: Kimchi Beef Stew (Kimchi Jjigae)
+image: kimchi-beef-stew.jpg
 tags:
 - instant-pot
 - soup
@@ -10,7 +11,6 @@ tags:
 prep_time: 10min
 cook_time: 15min
 servings: 6
-
 prep_time_iso: PT10M
 cook_time_iso: PT15M
 ingredients:

@@ -1,5 +1,6 @@
 ---
 title: Cajun Dirty Rice
+image: cajun-dirty-rice.jpg
 tags:
 - instant-pot
 - cajun
@@ -9,7 +10,6 @@ tags:
 prep_time: 10min
 cook_time: 4min
 servings: 4
-
 prep_time_iso: PT10M
 cook_time_iso: PT4M
 ingredients:

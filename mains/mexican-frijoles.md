@@ -1,5 +1,6 @@
 ---
 title: Mexican Frijoles
+image: mexican-frijoles.jpg
 tags:
 - instant-pot
 - mexican
@@ -9,7 +10,6 @@ tags:
 prep_time: 1h 10min
 cook_time: 30min
 servings: 4
-
 prep_time_iso: PT1H10M
 cook_time_iso: PT30M
 ingredients:

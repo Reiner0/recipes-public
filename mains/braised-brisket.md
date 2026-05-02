@@ -1,5 +1,6 @@
 ---
 title: Braised Brisket
+image: braised-brisket.jpg
 tags:
 - instant-pot
 - beef
@@ -9,7 +10,6 @@ tags:
 prep_time: 15min
 cook_time: 60-75min
 servings: 6-8
-
 prep_time_iso: PT15M
 cook_time_iso: PT60M
 ingredients:

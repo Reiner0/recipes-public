@@ -1,5 +1,6 @@
 ---
 title: Instant Pot Mac and Cheese
+image: instant-pot-mac-and-cheese.jpg
 tags:
 - christmas
 - side
@@ -8,7 +9,6 @@ tags:
 prep_time: 20min
 cook_time: 5min
 servings: 8-10
-
 prep_time_iso: PT20M
 cook_time_iso: PT5M
 ingredients:

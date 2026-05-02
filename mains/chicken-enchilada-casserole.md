@@ -1,5 +1,6 @@
 ---
 title: Chicken Enchilada Casserole
+image: chicken-enchilada-casserole.jpg
 tags:
 - instant-pot
 - mexican
@@ -9,7 +10,6 @@ tags:
 prep_time: 10min
 cook_time: 15min
 servings: 4
-
 prep_time_iso: PT10M
 cook_time_iso: PT15M
 ingredients:

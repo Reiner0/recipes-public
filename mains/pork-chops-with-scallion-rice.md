@@ -1,5 +1,6 @@
 ---
 title: Pork Chops With Scallion Rice
+image: pork-chops-with-scallion-rice.jpg
 tags:
 - instant-pot
 - pork
@@ -9,7 +10,6 @@ tags:
 prep_time: 10min
 cook_time: 5min
 servings: 4
-
 prep_time_iso: PT10M
 cook_time_iso: PT5M
 ingredients:

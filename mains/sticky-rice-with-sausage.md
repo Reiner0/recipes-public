@@ -1,5 +1,6 @@
 ---
 title: Chinese Sticky Rice With Sausage
+image: sticky-rice-with-sausage.jpg
 tags:
 - instant-pot
 - rice
@@ -9,7 +10,6 @@ tags:
 prep_time: 30min
 cook_time: 10min
 servings: 4
-
 prep_time_iso: PT30M
 cook_time_iso: PT10M
 ingredients:

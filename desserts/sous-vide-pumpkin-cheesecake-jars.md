@@ -1,5 +1,6 @@
 ---
 title: Sous Vide Pumpkin Cheesecake Jars
+image: sous-vide-pumpkin-cheesecake-jars.jpg
 tags:
 - thanksgiving
 - dessert
@@ -8,7 +9,6 @@ tags:
 prep_time: 15min
 cook_time: 90min
 servings: 6-8 jars (8oz size)
-
 prep_time_iso: PT15M
 cook_time_iso: PT90M
 ingredients:

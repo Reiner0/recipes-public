@@ -1,5 +1,6 @@
 ---
 title: Chicken Adobo
+image: chicken-adobo.jpg
 tags:
 - instant-pot
 - filipino
@@ -9,7 +10,6 @@ tags:
 prep_time: 10min
 cook_time: 8min
 servings: 6
-
 prep_time_iso: PT10M
 cook_time_iso: PT8M
 ingredients:

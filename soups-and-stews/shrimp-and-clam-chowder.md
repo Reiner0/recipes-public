@@ -1,5 +1,6 @@
 ---
 title: Shrimp & Clam Chowder
+image: shrimp-and-clam-chowder.jpg
 tags:
 - instant-pot
 - soup
@@ -8,7 +9,6 @@ tags:
 prep_time: 15min
 cook_time: 6min
 servings: 4
-
 prep_time_iso: PT15M
 cook_time_iso: PT6M
 ingredients:

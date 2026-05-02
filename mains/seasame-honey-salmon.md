@@ -1,5 +1,6 @@
 ---
 title: Sesame Honey Salmon
+image: seasame-honey-salmon.jpg
 tags:
 - instant-pot
 - fish
@@ -9,7 +10,6 @@ tags:
 prep_time: 20min
 cook_time: 3min
 servings: 4
-
 prep_time_iso: PT20M
 cook_time_iso: PT3M
 ingredients:

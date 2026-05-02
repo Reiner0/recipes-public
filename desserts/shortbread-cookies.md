@@ -1,5 +1,6 @@
 ---
 title: Shortbread Cookies
+image: shortbread-cookies.jpg
 tags:
 - dessert
 - cookies
@@ -8,7 +9,6 @@ tags:
 prep_time: 20min
 cook_time: 12-18min
 servings: 24 cookies (depending on cutter size)
-
 prep_time_iso: PT20M
 cook_time_iso: PT12M
 ingredients:

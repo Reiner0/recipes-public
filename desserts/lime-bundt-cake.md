@@ -1,5 +1,6 @@
 ---
 title: Lime Bundt Cake (Box Mix)
+image: lime-bundt-cake.jpg
 tags:
 - dessert
 - cake
@@ -13,7 +14,6 @@ cook_time: 35min
 servings: 10-12
 created: 2026-02-23
 modified: 2026-02-23
-
 prep_time_iso: PT20M
 cook_time_iso: PT35M
 ingredients:

@@ -1,5 +1,6 @@
 ---
 title: Smoker Turkey Breast
+image: smoker-turkey-breast.jpg
 tags:
 - thanksgiving
 - meat
@@ -9,7 +10,6 @@ tags:
 prep_time: 30min (plus 12-18h brine time)
 cook_time: 3-4h
 servings: 8-12
-
 prep_time_iso: PT30M
 cook_time_iso: PT3H
 ingredients:

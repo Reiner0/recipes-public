@@ -1,5 +1,6 @@
 ---
 title: Chicken Congee
+image: chicken-congee.jpg
 tags:
 - instant-pot
 - asian
@@ -10,7 +11,6 @@ tags:
 prep_time: 10min
 cook_time: 20min
 servings: 4
-
 prep_time_iso: PT10M
 cook_time_iso: PT20M
 ingredients:

@@ -1,5 +1,6 @@
 ---
 title: Horchata
+image: horchata.jpg
 tags:
 - instant-pot
 - mexican
@@ -10,7 +11,6 @@ tags:
 prep_time: 5min
 cook_time: 4min
 servings: 4
-
 prep_time_iso: PT5M
 cook_time_iso: PT4M
 ingredients:

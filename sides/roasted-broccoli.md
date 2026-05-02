@@ -1,5 +1,6 @@
 ---
 title: Roasted Broccoli
+image: roasted-broccoli.jpg
 tags:
 - christmas
 - side
@@ -8,7 +9,6 @@ tags:
 prep_time: 5min
 cook_time: 20min
 servings: 4
-
 prep_time_iso: PT5M
 cook_time_iso: PT20M
 ingredients:

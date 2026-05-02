@@ -1,5 +1,6 @@
 ---
 title: Homemade Mashed Potatoes
+image: homemade-mashed-potatoes.jpg
 tags:
 - christmas
 - side
@@ -7,7 +8,6 @@ tags:
 prep_time: 10min
 cook_time: 25min
 servings: 8-10
-
 prep_time_iso: PT10M
 cook_time_iso: PT25M
 ingredients:

@@ -1,5 +1,6 @@
 ---
 title: Glazed Quarter Ham
+image: glazed-quarter-ham.jpg
 tags:
 - christmas
 - meat
@@ -8,7 +9,6 @@ tags:
 prep_time: 10min
 cook_time: 45min
 servings: varies by ham size
-
 prep_time_iso: PT10M
 cook_time_iso: PT45M
 ingredients:

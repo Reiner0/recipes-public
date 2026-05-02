@@ -1,5 +1,6 @@
 ---
 title: Mexican Pulled Pork (Carnitas)
+image: mexican-pulled-pork.jpg
 tags:
 - instant-pot
 - pork
@@ -10,7 +11,6 @@ tags:
 prep_time: 10min
 cook_time: 35min
 servings: 4
-
 prep_time_iso: PT10M
 cook_time_iso: PT35M
 ingredients:

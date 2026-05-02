@@ -1,5 +1,6 @@
 ---
 title: Garlic Chicken
+image: garlic-chicken.jpg
 tags:
 - instant-pot
 - chicken
@@ -10,7 +11,6 @@ tags:
 prep_time: 10min
 cook_time: 8min
 servings: 4
-
 prep_time_iso: PT10M
 cook_time_iso: PT8M
 ingredients:

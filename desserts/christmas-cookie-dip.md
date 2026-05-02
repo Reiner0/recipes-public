@@ -1,5 +1,6 @@
 ---
 title: Christmas Cookie Dip
+image: christmas-cookie-dip.jpg
 tags:
 - christmas
 - dessert
@@ -10,7 +11,6 @@ tags:
 prep_time: 10min
 cook_time: 5min
 servings: 8-10
-
 prep_time_iso: PT10M
 cook_time_iso: PT5M
 ingredients:

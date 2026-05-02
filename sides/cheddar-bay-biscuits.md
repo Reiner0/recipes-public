@@ -1,5 +1,6 @@
 ---
 title: Cheddar Bay Biscuits
+image: cheddar-bay-biscuits.jpg
 tags:
 - christmas
 - side
@@ -8,7 +9,6 @@ tags:
 prep_time: 8min
 cook_time: 12min
 servings: 10 biscuits
-
 prep_time_iso: PT8M
 cook_time_iso: PT12M
 ingredients:

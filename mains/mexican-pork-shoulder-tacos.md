@@ -1,5 +1,6 @@
 ---
 title: Mexican-Style Pork Shoulder Tacos
+image: mexican-pork-shoulder-tacos.jpg
 tags:
 - instant-pot
 - pork
@@ -9,7 +10,6 @@ tags:
 prep_time: 10min
 cook_time: 25min
 servings: 6
-
 prep_time_iso: PT10M
 cook_time_iso: PT25M
 ingredients:

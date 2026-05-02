@@ -1,5 +1,6 @@
 ---
 title: Red Velvet Cake
+image: red-velvet-cake.jpg
 tags:
 - dessert
 - cake
@@ -8,7 +9,6 @@ tags:
 prep_time: 30min
 cook_time: 25-30min
 servings: 12-16 slices
-
 prep_time_iso: PT30M
 cook_time_iso: PT25M
 ingredients:

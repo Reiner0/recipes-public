@@ -1,5 +1,6 @@
 ---
 title: French Toast
+image: french-toast.jpg
 tags:
 - breakfast
 - sweet
@@ -7,7 +8,6 @@ tags:
 prep_time: 15min
 cook_time: 15min
 servings: 4 (2 slices each)
-
 prep_time_iso: PT15M
 cook_time_iso: PT15M
 ingredients:

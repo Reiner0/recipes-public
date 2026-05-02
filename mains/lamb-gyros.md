@@ -1,5 +1,6 @@
 ---
 title: Lamb Gyros
+image: lamb-gyros.jpg
 tags:
 - instant-pot
 - greek
@@ -10,7 +11,6 @@ tags:
 prep_time: 20min
 cook_time: 15min
 servings: 4
-
 prep_time_iso: PT20M
 cook_time_iso: PT15M
 ingredients:

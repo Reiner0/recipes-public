@@ -1,5 +1,6 @@
 ---
 title: Italian Cream Cake
+image: italian-cream-cake.jpg
 tags:
 - dessert
 - cake
@@ -9,7 +10,6 @@ tags:
 prep_time: 1h
 cook_time: 25min
 servings: 16
-
 prep_time_iso: PT1H
 cook_time_iso: PT25M
 ingredients:
