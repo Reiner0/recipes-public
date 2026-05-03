@@ -19,6 +19,7 @@ A personal collection of family recipes organized by course.
 - [Creamy Mushroom Chicken](mains/creamy-mushroom-chicken.md)
 - [Crustless Crab Quiche](mains/crab-quiche.md)
 - [French Toast](mains/french-toast.md)
+- [French Toast Casserole](mains/french-toast-casserole.md)
 - [Garlic Chicken](mains/garlic-chicken.md)
 - [Glazed Quarter Ham](mains/glazed-quarter-ham.md)
 - [Lamb Gyros](mains/lamb-gyros.md)
