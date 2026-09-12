@@ -11,6 +11,7 @@ prep_time: 10min
 cook_time: 0min
 servings: 2 cups (4 servings)
 prep_time_iso: PT10M
+cook_time_iso: PT0M
 ingredients:
 - 1 large cucumber, peeled and grated (about 2 cups)
 - 1 cup plain Greek yogurt
