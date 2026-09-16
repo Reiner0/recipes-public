@@ -1,5 +1,6 @@
 ---
 title: Garlicky Bacon Spaghetti
+image: garlicky-bacon-spaghetti.jpg
 tags:
 - main
 - pasta
@@ -63,3 +64,5 @@ instructions:
 - A bacon-driven carbonara. The eggs must go in **off the heat** and be tossed constantly — residual warmth cooks them into a sauce; direct heat scrambles them.
 - Reserved pasta water is essential for loosening the sauce to the right consistency.
 - Keeping a little bacon grease in the pan carries the flavor into the garlic and sauce.
+
+*Representative photo by [Froimar Andrea Rodriguez](https://www.pexels.com/photo/spaghetti-carbonara-on-plate-12116165/) on Pexels; ingredients and plating may differ. Used under the [Pexels license](https://www.pexels.com/license/).*

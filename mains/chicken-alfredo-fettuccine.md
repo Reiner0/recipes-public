@@ -1,5 +1,6 @@
 ---
 title: Chicken Alfredo Fettuccine
+image: chicken-alfredo-fettuccine.jpg
 tags:
 - main
 - chicken
@@ -55,3 +56,5 @@ instructions:
 - Uses half a 16 oz box of fettuccine; the other half keeps for next time.
 - Pre-diced chicken breast keeps this a true weeknight meal.
 - Reserved pasta water is the trick for loosening jarred sauce into a silky coat.
+
+*Representative photo by [Kemal Can](https://www.pexels.com/photo/creamy-chicken-alfredo-pasta-on-marble-table-37336685/) on Pexels; ingredients and plating may differ. Used under the [Pexels license](https://www.pexels.com/license/).*

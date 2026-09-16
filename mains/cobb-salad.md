@@ -1,5 +1,6 @@
 ---
 title: Cobb Salad
+image: cobb-salad.jpg
 tags:
 - main
 - salad
@@ -57,3 +58,5 @@ instructions:
 - The 8-min/quick-release/ice-bath Instant Pot method gives easy-peel eggs with fully set yolks.
 - Canned chicken keeps this fast; swap in leftover rotisserie or grilled chicken if you have it.
 - Everything but the bacon and eggs can be prepped ahead; assemble just before serving.
+
+*Representative photo by [Change C.C](https://www.pexels.com/photo/delicious-cobb-salad-with-fresh-ingredients-30700803/) on Pexels; ingredients and plating may differ. Used under the [Pexels license](https://www.pexels.com/license/).*

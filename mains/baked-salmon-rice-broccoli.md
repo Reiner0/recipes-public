@@ -1,5 +1,6 @@
 ---
 title: Baked Salmon with Jasmine Rice & Broccoli
+image: baked-salmon-rice-broccoli.jpg
 tags:
 - main
 - fish
@@ -59,3 +60,5 @@ instructions:
 - Two large vacuum-packed filets cut down to 4 portions feeds the family.
 - Broccoli and salmon share the oven at 400°F; start the broccoli first since it runs a few minutes longer.
 - See [Roasted Broccoli](../sides/roasted-broccoli.md) for a more detailed broccoli treatment.
+
+*Representative photo by [Kantharos Sangsuwan](https://www.pexels.com/photo/rice-topped-with-cooked-meat-and-vegetables-7531251/) on Pexels; ingredients and plating may differ. Used under the [Pexels license](https://www.pexels.com/license/).*
