@@ -15,7 +15,7 @@ ingredients:
 - 8 oz fettuccine (half a 16 oz box)
 - 1½ lb diced chicken breast
 - 1 tablespoon olive oil
-- 2-3 teaspoons minced garlic
+- 2–3 teaspoons minced garlic
 - 1 jar (15 oz) garlic alfredo sauce
 - Salt, for the pasta water
 instructions:
