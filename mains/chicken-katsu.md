@@ -23,7 +23,8 @@ ingredients:
   skillet)
 - 1½ cups (285g) dry rice and 1½ cups (360ml) water, or 4½ cups (720g) cooked rice
 - ½ small cabbage (8 oz / 225g), finely shredded
-- 1 batch (about ⅓ cup / 80ml) [Tonkatsu Sauce](../basics/tonkatsu-sauce.md)
+- ⅓ cup (80ml) bottled tonkatsu sauce (such as Kikkoman) or 1 batch homemade [Tonkatsu
+  Sauce](../basics/tonkatsu-sauce.md)
 - 'For the adults: optional 1 teaspoon (5ml) sriracha per plate'
 instructions:
 - 'Start rice: Rinse the rice. Put it and the measured water in the Instant Pot; cook
@@ -52,10 +53,10 @@ instructions:
 - ½ cup (120ml) neutral oil for shallow frying (about ¼ inch / 6mm deep in a 12-inch skillet)
 - 1½ cups (285g) dry rice and 1½ cups (360ml) water, or 4½ cups (720g) cooked rice
 - ½ small cabbage (8 oz / 225g), finely shredded
-- 1 batch (about ⅓ cup / 80ml) [Tonkatsu Sauce](../basics/tonkatsu-sauce.md)
+- ⅓ cup (80ml) bottled tonkatsu sauce (such as Kikkoman) or 1 batch homemade [Tonkatsu Sauce](../basics/tonkatsu-sauce.md)
 - For the adults: optional 1 teaspoon (5ml) sriracha per plate
 
-**Sodium notes:** Panko and sauce supply sodium; choose lower-sodium panko and no-salt-added ketchup in the linked sauce. Keep sauce on the side and limit added salt to ¼ teaspoon (1.5g).
+**Sodium notes:** Panko and sauce supply sodium; the homemade sauce is lower in sodium than bottled. Keep sauce on the side and limit added salt to ¼ teaspoon (1.5g).
 
 ## Instructions
 

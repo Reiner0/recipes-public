@@ -20,8 +20,6 @@ ingredients:
 - 2 teaspoons (2g) dried Italian herbs, without salt
 - No salt in the freezer bags
 - 'For weeknight searing: 1 tablespoon (15ml) neutral oil per dinner portion'
-- 'Optional separate fish batch: 1½ lb (680g) salmon in four portions no thicker than
-  ¾ inch (2cm), with 1 teaspoon (5ml) olive oil'
 instructions:
 - 'Bag on arrival: Flatten breasts to no more than ¾ inch (2cm) thick; unfold thighs
   to no more than 1 inch (2.5cm). Divide oil, garlic and herbs among vacuum bags.
@@ -45,13 +43,12 @@ instructions:
   oil per dinner in a skillet; sear 1–2 minutes per side until golden. Slice and warm
   in the dinner sauce, covered if needed, until the center reaches 165°F (74°C). A
   quick sear alone does not reheat a cold center.'
-- 'Handle salmon separately: For the optional soft adult texture, cook thin frozen
-  salmon at 125°F (52°C) for about 45–60 minutes, roughly 50% longer than thawed,
-  then sear briefly and serve immediately. This is not pasteurized fish and is not
-  for the children or chilled batch storage. For the family, remove from the bag and
-  finish in a skillet or oven until the center reaches 145°F (63°C), opaque and easily
-  flaked. For vacuum-packed frozen fish, follow the label; remove packaging before
-  refrigerator thawing if directed.'
+- 'Salmon is a dinner-night cook, not a batch: Salmon doesn''t store or reheat well,
+  so cook it the night you serve it. Drop the frozen bag into a 140°F (60°C) bath
+  for about 1 hour 15 minutes (45 minutes if thawed), until opaque and flaky. Chill
+  5 minutes in ice water, pat very dry, then sear skin side down in a hot oiled skillet
+  for 2–3 minutes until crisp; give the flesh side 30 seconds at most. See the sous
+  vide option in [Baked Salmon](../mains/baked-salmon-rice-broccoli.md).'
 ---
 
 ## Ingredients
@@ -62,7 +59,6 @@ instructions:
 - 2 teaspoons (2g) dried Italian herbs, without salt
 - No salt in the freezer bags
 - For weeknight searing: 1 tablespoon (15ml) neutral oil per dinner portion
-- Optional separate fish batch: 1½ lb (680g) salmon in four portions no thicker than ¾ inch (2cm), with 1 teaspoon (5ml) olive oil
 
 **Sodium notes:** Finishing sauce is the main source; buy unbrined chicken with no injected saline, keep bags salt-free and finish with a measured low-sodium sauce.
 
@@ -78,7 +74,7 @@ instructions:
 
 5. **Sear on dinner night:** Open, discard bag liquid and pat dry. Heat 1 tablespoon (15ml) oil per dinner in a skillet; sear 1–2 minutes per side until golden. Slice and warm in the dinner sauce, covered if needed, until the center reaches 165°F (74°C). A quick sear alone does not reheat a cold center.
 
-6. **Handle salmon separately:** For the optional soft adult texture, cook thin frozen salmon at 125°F (52°C) for about 45–60 minutes, roughly 50% longer than thawed, then sear briefly and serve immediately. This is not pasteurized fish and is not for the children or chilled batch storage. For the family, remove from the bag and finish in a skillet or oven until the center reaches 145°F (63°C), opaque and easily flaked. For vacuum-packed frozen fish, follow the label; remove packaging before refrigerator thawing if directed.
+6. **Salmon is a dinner-night cook, not a batch:** Salmon doesn't store or reheat well, so cook it the night you serve it. Drop the frozen bag into a 140°F (60°C) bath for about 1 hour 15 minutes (45 minutes if thawed), until opaque and flaky. Chill 5 minutes in ice water, pat very dry, then sear skin side down in a hot oiled skillet for 2–3 minutes until crisp; give the flesh side 30 seconds at most. See the sous vide option in [Baked Salmon](../mains/baked-salmon-rice-broccoli.md).
 
 ## Notes
 

@@ -29,9 +29,9 @@ instructions:
 - 'Roast broccoli: Toss the florets with olive oil, salt, and pepper. Spread on one
   side of the sheet pan and roast about 20 minutes, until tender with crisp, browned
   edges.'
-- 'Bake salmon: Season the salmon portions with salt and pepper. Add to the sheet pan
-  (or its own pan) and bake 15 to 18 minutes, until the fish flakes easily and reaches
-  ~125–130°F (52–54°C) for medium.'
+- 'Bake salmon: Season the salmon portions with salt and pepper. Add to the sheet
+  pan (or its own pan) and bake 15 to 18 minutes, until the fish flakes easily and
+  reaches about 140°F (60°C), opaque through.'
 - 'Serve: Plate the salmon over or alongside the rice with the roasted broccoli.'
 ---
 
@@ -52,12 +52,13 @@ instructions:
 
 3. **Roast broccoli:** Toss the florets with olive oil, salt, and pepper. Spread on one side of the sheet pan and roast about 20 minutes, until tender with crisp, browned edges.
 
-4. **Bake salmon:** Season the salmon portions with salt and pepper. Add to the sheet pan (or its own pan) and bake 15 to 18 minutes, until the fish flakes easily and reaches ~125–130°F (52–54°C) for medium.
+4. **Bake salmon:** Season the salmon portions with salt and pepper. Add to the sheet pan (or its own pan) and bake 15 to 18 minutes, until the fish flakes easily and reaches about 140°F (60°C), opaque through.
 
 5. **Serve:** Plate the salmon over or alongside the rice with the roasted broccoli.
 
 ## Notes
 
+- **Sous vide option (straight from frozen):** Cook the sealed fillets at 140°F (60°C) for about 1 hour 15 minutes from frozen (45 minutes thawed), until opaque and flaky. Optional first: a 10-minute brine in 1 tablespoon (18g) salt and 4 cups (1L) water firms the flesh. Chill the bags 5 minutes in ice water, pat dry, and sear skin side down in a hot oiled skillet for 2–3 minutes until crisp; flesh side 30 seconds at most. Lower temperatures (120–125°F / 49–52°C) come out silky and translucent, which reads as undercooked. Roast the broccoli while the bath runs.
 - Two large vacuum-packed filets cut down to 4 portions feeds the family.
 - Broccoli and salmon share the oven at 400°F; start the broccoli first since it runs a few minutes longer.
 - See [Roasted Broccoli](../sides/roasted-broccoli.md) for a more detailed broccoli treatment.

@@ -76,6 +76,8 @@ instructions:
 
 **From frozen:** No meat to thaw. Reheat frozen cooked beans in a covered saucepan with ¼ cup (60ml) water per 2 cups (360g) beans for 10–15 minutes, stirring, until 165°F (74°C); reheat frozen rice covered until equally hot.
 
+**Weeknight shortcut (canned beans):** Skip steps 1–3. Sauté the onion in 2 tablespoons (30ml) oil for 3 minutes, add 4 garlic cloves for 30 seconds, then 3 cans (15 oz / 425g each) black beans with their liquid, the bay leaves and ½ cup (120ml) water. Simmer 15 minutes, mash ½ cup (90g) against the pot to thicken, and salt to taste only if the cans were no-salt-added. Total about 20 minutes.
+
 **Make ahead / five-day plan:** Cool in shallow containers and refrigerate within 2 hours at 40°F (4°C) or below. Cooked rice and beans keep 3–4 days in the fridge, not five; freeze the day-five portions on prep day, thaw overnight in the fridge and reheat once to 165°F (74°C). Freeze up to 3 months.
 
 **Timing:** About 20 minutes active, 75–90 minutes elapsed including pressure buildup. This is Sunday prep, with about 15 minutes active to reheat on a weeknight. Beans add roughly 10–14g protein per serving alongside the main.

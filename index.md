@@ -59,6 +59,7 @@ A personal collection of family recipes organized by course.
 - [Pork & Hominy Stew (Posole)](soups-and-stews/posole.md)
 - [Shrimp & Clam Chowder](soups-and-stews/shrimp-and-clam-chowder.md)
 - [Sweet Corn Chicken Soup](soups-and-stews/sweet-corn-chicken-soup.md)
+- [White Chicken Chili](soups-and-stews/white-chicken-chili.md)
 
 ## Sides
 
