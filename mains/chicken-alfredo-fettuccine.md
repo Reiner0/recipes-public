@@ -14,7 +14,8 @@ prep_time_iso: PT10M
 cook_time_iso: PT20M
 ingredients:
 - 8 oz fettuccine (half a 16 oz box)
-- 1½ lb diced chicken breast
+- 1½ lb (680g) boneless skinless chicken breast, diced, or 1½ lb (680g) cooked [Sous
+  Vide Batch Chicken](../basics/sous-vide-batch-chicken.md)
 - 1 tablespoon olive oil
 - 2–3 teaspoons minced garlic
 - 1 jar (15 oz) garlic alfredo sauce
@@ -34,7 +35,7 @@ instructions:
 ## Ingredients
 
 - 8 oz fettuccine (half a 16 oz box)
-- 1½ lb diced chicken breast
+- 1½ lb (680g) boneless skinless chicken breast, diced, or 1½ lb (680g) cooked [Sous Vide Batch Chicken](../basics/sous-vide-batch-chicken.md)
 - 1 tablespoon olive oil
 - 2–3 teaspoons minced garlic
 - 1 jar (15 oz) garlic alfredo sauce
