@@ -6,6 +6,7 @@ tags:
 - chicken
 - pasta
 - quick
+- weeknight
 prep_time: 10min
 cook_time: 20min
 servings: 4
@@ -52,6 +53,10 @@ instructions:
 5. **Combine:** Add the drained fettuccine to the skillet and toss to coat. Add reserved pasta water a splash at a time until everything is glossy and well combined.
 
 ## Notes
+
+**Protein/sodium boost:** Use less parmesan if adding it; stir in ½ cup (120g) plain Greek yogurt or blended cottage cheese off the heat for more protein. Greek yogurt is the lower-sodium choice; jarred alfredo sauce is the main sodium source.
+
+**From frozen:** Prepare the 1½ lb (680g) chicken portion with [Sous Vide Batch Chicken](../basics/sous-vide-batch-chicken.md), which cooks directly from frozen. On dinner night, sear the cooked chicken instead of browning raw cubes, then warm it in the sauce to 165°F (74°C).
 
 - Uses half a 16 oz box of fettuccine; the other half keeps for next time.
 - Pre-diced chicken breast keeps this a true weeknight meal.

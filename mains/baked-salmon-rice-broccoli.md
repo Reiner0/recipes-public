@@ -7,6 +7,7 @@ tags:
 - oven
 - instant-pot
 - quick
+- weeknight
 prep_time: 10min
 cook_time: 20min
 servings: 4

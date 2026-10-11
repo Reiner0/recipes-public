@@ -6,6 +6,8 @@ title: Leal Family Recipes
 
 A personal collection of family recipes organized by course.
 
+**This month's dinners:** [Weeknight Rotation](weeknight-rotation.md)
+
 ---
 
 ## Mains
@@ -13,31 +15,40 @@ A personal collection of family recipes organized by course.
 - [Arroz Con Pollo](mains/arroz-con-pollo.md)
 - [Baked Salmon with Jasmine Rice & Broccoli](mains/baked-salmon-rice-broccoli.md)
 - [Braised Brisket](mains/braised-brisket.md)
+- [Brazilian Picadinho (Mild Beef and Potato Skillet)](mains/picadinho.md)
 - [Chicken Adobo](mains/chicken-adobo.md)
 - [Chicken Alfredo Fettuccine](mains/chicken-alfredo-fettuccine.md)
 - [Chicken Congee](mains/chicken-congee.md)
 - [Chicken Enchilada Casserole](mains/chicken-enchilada-casserole.md)
+- [Chicken Katsu](mains/chicken-katsu.md)
+- [Chicken Teriyaki Rice Bowls](mains/chicken-teriyaki-bowls.md)
 - [Chinese Sticky Rice With Sausage](mains/sticky-rice-with-sausage.md)
 - [Cobb Salad](mains/cobb-salad.md)
 - [Creamy Mushroom Chicken](mains/creamy-mushroom-chicken.md)
 - [Crustless Crab Quiche](mains/crab-quiche.md)
+- [Egg Fried Rice with Leftover Protein](mains/egg-fried-rice.md)
 - [French Toast](mains/french-toast.md)
 - [French Toast Casserole](mains/french-toast-casserole.md)
 - [Garlic Chicken](mains/garlic-chicken.md)
 - [Garlicky Bacon Spaghetti](mains/garlicky-bacon-spaghetti.md)
 - [Glazed Quarter Ham](mains/glazed-quarter-ham.md)
+- [Ground Turkey Spaghetti](mains/ground-turkey-spaghetti.md)
 - [Lamb Gyros](mains/lamb-gyros.md)
 - [Lasagna Roll-Ups](mains/lasagna-roll-ups.md)
 - [Mexican Frijoles](mains/mexican-frijoles.md)
 - [Mexican Pulled Pork (Carnitas)](mains/mexican-pulled-pork.md)
 - [Mexican-Style Pork Shoulder Tacos](mains/mexican-pork-shoulder-tacos.md)
+- [Oyakodon (Chicken and Egg Rice Bowl)](mains/oyakodon.md)
 - [Pork Chile Verde](mains/pork-chile-verde.md)
 - [Pork Chops With Scallion Rice](mains/pork-chops-with-scallion-rice.md)
 - [Pulled Pork](mains/pulled-pork.md)
 - [Sesame Honey Salmon](mains/seasame-honey-salmon.md)
 - [Shrimp & Sausage Boil](mains/shrimp-and-sausage-boil.md)
 - [Smoker Turkey Breast](mains/smoker-turkey-breast.md)
+- [Spam, Egg and Rice](mains/spam-egg-rice.md)
 - [Steamed Ginger Scallion Fish](mains/steamed-ginger-scallion-fish.md)
+- [Turkey Meatball Rice Bowls](mains/turkey-meatball-rice-bowls.md)
+- [Turkey Taco Rice Bowls](mains/turkey-taco-rice-bowls.md)
 
 ## Soups & Stews
 
@@ -51,6 +62,7 @@ A personal collection of family recipes organized by course.
 
 ## Sides
 
+- [Brazilian Rice and Beans (Arroz e Feijão)](sides/brazilian-rice-and-beans.md)
 - [Cajun Dirty Rice](sides/cajun-dirty-rice.md)
 - [Cheddar Bay Biscuits](sides/cheddar-bay-biscuits.md)
 - [Corn Pudding](sides/corn-pudding.md)
@@ -73,4 +85,8 @@ A personal collection of family recipes organized by course.
 
 - [Boba Tea](basics/boba-tea.md)
 - [Horchata](basics/horchata.md)
+- [Low-Sodium Taco Seasoning](basics/low-sodium-taco-seasoning.md)
+- [Low-Sodium Teriyaki Sauce](basics/low-sodium-teriyaki-sauce.md)
+- [Sous Vide Batch Chicken (From Frozen)](basics/sous-vide-batch-chicken.md)
+- [Tonkatsu Sauce](basics/tonkatsu-sauce.md)
 - [Tzatziki](basics/tzatziki.md)
