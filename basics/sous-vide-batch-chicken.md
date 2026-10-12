@@ -80,6 +80,6 @@ instructions:
 
 **From frozen:** All bath times above start from frozen. Freeze bags flat; no counter-thawing.
 
-**Sunday timing:** About 20–30 minutes hands-on; the bath and ice chill take several hours unattended. Two 1½ lb (680g) portions cover [teriyaki](../mains/chicken-teriyaki-bowls.md) and [alfredo](../mains/chicken-alfredo-fettuccine.md) for this household. Serve larger portions to the adults when dividing six nominal servings across two family dinners.
+**Sunday timing:** About 20–30 minutes hands-on; the bath and ice chill take several hours unattended. Cook one 1½ lb (680g) portion per week for this household: Week A [teriyaki](../mains/chicken-teriyaki-bowls.md), Week B [alfredo](../mains/chicken-alfredo-fettuccine.md). Use half the recipe's bagging oil, garlic and herbs for one portion; double it if you want extra for lunches.
 
 **Safety basis:** Thickness, full cooking time and rapid chilling matter for low-temperature poultry; see [Baldwin’s sous-vide guide](https://douglasbaldwin.com/sous-vide.html). For ordinary opened leftovers, follow [USDA’s 3–4-day storage guidance](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/freezing-and-food-safety).

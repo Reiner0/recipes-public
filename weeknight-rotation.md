@@ -10,6 +10,8 @@ layout: default
 
 Four home dinners per week; repeat this two-week cycle. Each dinner feeds 2 adults and 2 kids; thawing and Sunday cooking add unattended time. [Browse weeknight recipes](tags.html?tag=weeknight).
 
+One pasta night per week; the rest are rice.
+
 **Where to buy:** Costco for rice, low-sodium soy sauce and canned black beans; Seafood City for Asian pantry items; Vons pickup for meat, produce, dairy and the rest.
 
 ## Week A
@@ -19,15 +21,15 @@ Four home dinners per week; repeat this two-week cycle. Each dinner feeds 2 adul
 | Dinner 1 | [Chicken Teriyaki Rice Bowls](mains/chicken-teriyaki-bowls.md) | 25–30 min |
 | Dinner 2 | [Ground Turkey Spaghetti](mains/ground-turkey-spaghetti.md) | 30 min |
 | Dinner 3 | [Baked Salmon with Jasmine Rice & Broccoli](mains/baked-salmon-rice-broccoli.md) | 25–30 min |
-| Dinner 4 | [Chicken Alfredo Fettuccine](mains/chicken-alfredo-fettuccine.md) | 30 min |
+| Dinner 4 | [Oyakodon](mains/oyakodon.md) | 30 min |
 
 ### Sunday prep (~30–45 min hands-on)
 
-- [ ] Cook 3 lb (1.36kg) frozen chicken using [Sous Vide Batch Chicken](basics/sous-vide-batch-chicken.md): two 1½ lb (680g) dinner portions for teriyaki and alfredo. Ice-chill sealed bags immediately. Allow several hours for the bath and chill.
-- [ ] Refrigerate Dinner 1 chicken. Freeze Dinner 4 chicken after chilling unless using within the batch recipe's verified five-day storage conditions.
+- [ ] Cook one 1½ lb (680g) frozen chicken portion for teriyaki using [Sous Vide Batch Chicken](basics/sous-vide-batch-chicken.md), with half the recipe's bagging oil, garlic and herbs. Ice-chill sealed bags immediately, then refrigerate for Dinner 1. Allow several hours for the bath and chill.
 - [ ] Make one batch [Low-Sodium Teriyaki Sauce](basics/low-sodium-teriyaki-sauce.md); refrigerate ½ cup (120ml) for Dinner 1 and freeze the rest for the next cycle.
 - [ ] Cook 3 cups (570g) dry jasmine rice with 3 cups (720ml) water in the Instant Pot: HIGH 3 minutes, natural-release 10 minutes. Divide into two portions of about 4½ cups (720g) cooked rice. Cool promptly in shallow containers; refrigerate Dinner 1 rice and freeze Dinner 3 rice on prep day.
 - [ ] Wash and divide 2 lb (900g) broccoli into two dinner portions.
+- [ ] Leave 1½ cups (285g) dry rice for Dinner 4 oyakodon; cook with 1½ cups (360ml) water on dinner night.
 
 ### Night-before moves
 
@@ -36,7 +38,7 @@ Four home dinners per week; repeat this two-week cycle. Each dinner feeds 2 adul
 | 1 — [Teriyaki](mains/chicken-teriyaki-bowls.md) | Keep cooked chicken, rice and sauce refrigerated. If frozen, move them to the fridge now. |
 | 2 — [Spaghetti](mains/ground-turkey-spaghetti.md) | Move two flat 1 lb (450g) raw turkey bags to the fridge on a tray; allow about 24 hours. |
 | 3 — [Salmon](mains/baked-salmon-rice-broccoli.md) | Move frozen rice to the fridge. For the sous vide option, the salmon goes in the bath frozen; to bake it instead, move four portions, 1½ lb (680g) total, to the fridge. Remove vacuum packaging before fridge thawing when the label directs it. |
-| 4 — [Alfredo](mains/chicken-alfredo-fettuccine.md) | Move the cooked 1½ lb (680g) chicken portion from freezer to fridge, or keep the safely chilled bag refrigerated within its storage limit. |
+| 4 — [Oyakodon](mains/oyakodon.md) | Move two ¾ lb (340g) raw chicken breast or thigh bags to the fridge on a tray, about 24 hours ahead. |
 
 **If still frozen:** For raw turkey or chicken, use sealed bags in cold water, changed every 30 minutes; allow 30–60 minutes per flat 1 lb (450g) bag and cook immediately. For salmon, follow its packaging instructions; seal portions in a fresh leakproof bag if necessary, allow about 30–60 minutes per ¾ lb (340g) bag, and cook immediately once thawed. Never counter-thaw. Reheat cooked chicken and rice to 165°F (74°C).
 
@@ -44,16 +46,16 @@ Four home dinners per week; repeat this two-week cycle. Each dinner feeds 2 adul
 
 ### Consolidated groceries — Week A
 
-Quantities cover all four dinners and the prep batches above. Optional adult condiments are separate. ★ Buy/check once for both weeks; Week B lists only its required use.
+Quantities cover all four dinners and the prep batches above, including half a batch of chicken per week. Optional adult condiments are separate. ★ Buy/check once for both weeks; Week B lists only its required use. Oil totals include bagging and dinner cooking; each dinner's oil also covers the batch chicken sear.
 
 | Group | Buy / portion |
 |---|---|
-| Meat | Chicken breasts or thighs: **3 lb (1.36kg)**, two 1½ lb (680g) dinner portions. Freeze on arrival, salt-free, single-layer vacuum bags; breasts ≤¾ inch (2cm), thighs ≤1 inch (2.5cm). Ground turkey: **2 lb (900g)**, two flat 1 lb (450g) bags. Salmon: **1½ lb (680g)**, four portions in two flat dinner bags. Freeze all raw meat/fish immediately; label by dinner. |
-| Produce | Broccoli **2 lb (900g)**; onion **1 medium (150g)**; garlic **8 cloves (24g) plus 2–3 teaspoons (10–15ml) minced** for alfredo (about 1 large bulb total); fresh ginger **1 teaspoon grated (2g)**. |
-| Dairy/Eggs | Parmesan **¼ cup (20g)** for spaghetti. No eggs required this week. |
-| Pantry — dinner-specific | Protein spaghetti **1 × 14.5 oz (410g) box**; fettuccine **8 oz (225g)**; Rao's marinara **1 × 24 oz (680g) jar**; garlic alfredo sauce **1 × 15 oz (425g) jar**. |
-| Pantry — ★ both-week staples | Rice **3 cups (570g)** this week + **6½ cups (1.24kg)** next week: buy at least **4 lb (1.8kg)** jasmine/long-grain white rice. Olive/neutral oil **6 tablespoons (90ml)** this week; have **1 bottle, at least 1¼ cups (300ml)** for both weeks. Low-sodium soy **¼ cup (60ml)** this week; mirin **2 tablespoons (30ml)**; brown sugar **2 tablespoons (25g)**; cornstarch **1 tablespoon (8g)**; salt-free Italian herbs **2 teaspoons (2g)**; white sugar **1 tablespoon (12g)** for Week B. Check a small container each of fine salt and black pepper; this week's measured salt **1 teaspoon (6g)**, pepper **¼ teaspoon (0.5g)**. |
-| Optional adult additions | Sriracha for teriyaki; red pepper flakes for spaghetti. Buy/check once and use only at the table. |
+| Meat | Chicken breasts or thighs: **3 lb (1.36kg)**, 1½ lb (680g) for the teriyaki batch and 1½ lb (680g) raw for oyakodon. Freeze on arrival, salt-free, single-layer vacuum bags; breasts ≤¾ inch (2cm), thighs ≤1 inch (2.5cm). Ground turkey: **2 lb (900g)**, two flat 1 lb (450g) bags. Salmon: **1½ lb (680g)**, four portions in two flat dinner bags. Freeze all raw meat/fish immediately; label by dinner. |
+| Produce | Broccoli **2 lb (900g)**; onions **2 medium (300g)**; garlic **6 cloves (18g)**; fresh ginger **1 teaspoon grated (2g)**. |
+| Dairy/Eggs | Parmesan **¼ cup (20g)** for spaghetti; **6 large eggs** for oyakodon. |
+| Pantry — dinner-specific | Protein spaghetti **1 × 14.5 oz (410g) box**; Rao's marinara **1 × 24 oz (680g) jar**; unsalted dashi **1 cup (240ml)** (ready-made unsalted or kombu/bonito brewed per package), or low-sodium chicken broth. |
+| Pantry — ★ both-week staples | Rice **4½ cups (855g)** this week + **5 cups (950g)** next week: buy at least **4 lb (1.8kg)** jasmine/long-grain white rice. Olive/neutral oil **4 tablespoons (60ml)** this week + **15 tablespoons (225ml)** next week; have **1 bottle, at least 1¼ cups (300ml)** for both weeks. Low-sodium soy **6 tablespoons (90ml)** this week + **1 tablespoon + 1 teaspoon (20ml)** next week (includes meatball glaze). Mirin **4 tablespoons (60ml)** this week; brown sugar **2 tablespoons (25g)**; cornstarch **1 tablespoon (8g)**; salt-free Italian herbs **1 teaspoon (1g)** per week; white sugar **2 teaspoons (8g)** this week + **1 teaspoon (4g)** next week. Check a small container each of fine salt and black pepper; this week's measured salt **1 teaspoon (6g)** for spaghetti, plus salt and pepper for salmon as needed. |
+| Optional adult additions | Sriracha for teriyaki; red pepper flakes for spaghetti; chili crisp for oyakodon. Buy/check once and use only at the table. |
 
 ## Week B
 
@@ -61,15 +63,16 @@ Quantities cover all four dinners and the prep batches above. Optional adult con
 |---|---|---|
 | Dinner 1 | [Chicken Katsu](mains/chicken-katsu.md) | 35 min |
 | Dinner 2 | [Turkey Meatball Rice Bowls](mains/turkey-meatball-rice-bowls.md) | 20 min with cooked meatballs |
-| Dinner 3 | [Oyakodon](mains/oyakodon.md) | 30 min |
+| Dinner 3 | [Chicken Alfredo Fettuccine](mains/chicken-alfredo-fettuccine.md) | 30 min |
 | Dinner 4 | [Brazilian Picadinho](mains/picadinho.md) + [Brazilian Rice and Beans](sides/brazilian-rice-and-beans.md) | 35 min with prepped sides |
 
 ### Sunday prep (~30–45 min hands-on)
 
+- [ ] Cook one 1½ lb (680g) frozen chicken portion for alfredo using [Sous Vide Batch Chicken](basics/sous-vide-batch-chicken.md), with half the recipe's bagging oil, garlic and herbs. Ice-chill sealed bags immediately, then refrigerate for Dinner 3, within the recipe's five-day limit in a fridge verified below 38°F (3°C). Allow several hours for the bath and chill.
 - [ ] Thaw the raw turkey in sealed bags in cold water, then make and fully cook [meatballs](mains/turkey-meatball-rice-bowls.md). Refrigerate if Dinner 2 falls within 3–4 days; otherwise cool promptly, freeze on a sheet pan and bag. Reheat to 165°F (74°C).
 - [ ] Make the full [Instant Pot beans and garlic rice](sides/brazilian-rice-and-beans.md) batch. Freeze Dinner 4 portions on prep day, plus the extra two side servings. Pressure cooking and cooling are unattended time.
 - [ ] Pound and bag [katsu cutlets](mains/chicken-katsu.md) on shopping day before their immediate freeze; if already frozen flat, this step is done. Keep the 1½ lb (680g) portion in two single-layer bags. Make [Tonkatsu Sauce](basics/tonkatsu-sauce.md), or use bottled.
-- [ ] Leave the other **4½ cups (855g) dry rice** for the three bowl dinners; each takes 1½ cups (285g) rice and 1½ cups (360ml) water. Cook it on dinner nights while the protein cooks.
+- [ ] Leave the other **3 cups (570g) dry rice** for the katsu and meatball bowl dinners; each takes 1½ cups (285g) rice and 1½ cups (360ml) water. Cook it on dinner nights while the protein cooks.
 
 ### Night-before moves
 
@@ -77,23 +80,23 @@ Quantities cover all four dinners and the prep batches above. Optional adult con
 |---|---|
 | 1 — [Katsu](mains/chicken-katsu.md) | Move two flat ¾ lb (340g) cutlet bags to the fridge on a tray, about 24 hours ahead. Cold-water fallback: about 30 minutes for thin cutlets, up to 60 minutes or longer if still icy; cook immediately. |
 | 2 — [Meatballs](mains/turkey-meatball-rice-bowls.md) | Keep cooked meatballs refrigerated within 3–4 days, or move a frozen cooked dinner portion to the fridge. The recipe also reheats them directly from frozen. |
-| 3 — [Oyakodon](mains/oyakodon.md) | Move two ¾ lb (340g) raw thigh bags to the fridge on a tray, about 24 hours ahead. |
+| 3 — [Alfredo](mains/chicken-alfredo-fettuccine.md) | Keep the cooked 1½ lb (680g) chicken portion refrigerated within the batch recipe's five-day storage conditions. |
 | 4 — [Picadinho](mains/picadinho.md) + [rice and beans](sides/brazilian-rice-and-beans.md) | Move two ¾ lb (340g) raw beef bags and the cooked rice/bean portions to the fridge. Reheat the sides to 165°F (74°C). |
 
-**If still frozen:** Raw thigh or beef bags can cold-water thaw in about 30–60 minutes per flat 1 lb (450g) bag; change water every 30 minutes, wait until thawed and cook immediately. Keep raw bags on a tray below ready-to-eat food in the fridge.
+**If still frozen:** Raw cutlet or beef bags can cold-water thaw in about 30–60 minutes per flat 1 lb (450g) bag; change water every 30 minutes, wait until thawed and cook immediately. Keep raw bags on a tray below ready-to-eat food in the fridge.
 
 ### Consolidated groceries — Week B
 
-Includes the full six-serving rice/bean batch (two extra portions) and the optional kid-friendly meatball glaze. Staples marked ★ were checked in Week A.
+Includes half a batch of chicken, the full six-serving rice/bean batch (two extra portions) and the optional kid-friendly meatball glaze. Oil totals include bagging and dinner cooking; alfredo's oil also covers the chicken sear. Staples marked ★ were checked in Week A.
 
 | Group | Buy / portion |
 |---|---|
-| Meat | Chicken breast cutlets **1½ lb (680g)** for katsu: pound to ¼ inch (6mm), bag in two flat ¾ lb (340g) single layers. Chicken breasts or thighs **1½ lb (680g)** for oyakodon; ground turkey **1½ lb (680g)** for meatballs; lean ground beef **1½ lb (680g)** for picadinho. Freeze on arrival; each goes in two flat ¾ lb (340g) bags, labeled by dish. |
-| Produce | Onions **3 medium (450g)**; garlic **12 cloves (36g)** (about 1 large bulb); potatoes **1 lb (450g)**; carrots **2 medium, 8 oz (225g)**; cabbage **½ small, 8 oz (225g)**. |
-| Dairy/Eggs | **9 large eggs**: 2 katsu, 1 meatballs, 6 oyakodon. |
-| Pantry — dinner-specific | Panko **2 cups (120g)**; flour **½ cup (60g)**; dried pinto or black beans **1 lb (450g)**; no-salt-added diced tomatoes **1 × 14½ oz (410g) can**; unsalted dashi **1 cup (240ml)** (ready-made unsalted or kombu/bonito brewed per package); no-salt-added ketchup **¼ cup (60g)**; Worcestershire **1 tablespoon (15ml)**, lower-sodium if available; honey **1 tablespoon (21g)**; bay leaves **2**. |
-| Pantry — ★ use from staples | Rice **6½ cups (1.24kg)**: 1½ cups each for katsu, meatballs and oyakodon, plus 2 cups for garlic rice. Olive/neutral oil **⅓ cup + 5 tablespoons (155ml)**. Low-sodium soy **3 tablespoons + 1 teaspoon (50ml)**: 2 tablespoons oyakodon, 1 tablespoon glaze, 1 teaspoon tonkatsu. Mirin **2 tablespoons (30ml)**; white sugar **1 tablespoon (12g)** (2 teaspoons oyakodon + 1 teaspoon sauce). Fine salt **2 teaspoons (12g)**: ¼ each katsu and rice, ½ each meatballs, picadinho and beans. |
-| Optional adult additions | Spicy mayo **already on hand** for meatballs; sriracha for katsu; chili crisp for oyakodon; hot sauce for picadinho. Keep out of the base recipes. |
+| Meat | Chicken **3 lb (1.36kg)** total: breast cutlets **1½ lb (680g)** for katsu, pounded to ¼ inch (6mm) and bagged in two flat ¾ lb (340g) single layers; breasts or thighs **1½ lb (680g)** for the alfredo batch, breasts ≤¾ inch (2cm), thighs ≤1 inch (2.5cm). Ground turkey **1½ lb (680g)** for meatballs; lean ground beef **1½ lb (680g)** for picadinho. Freeze on arrival, salt-free; each goes in two flat ¾ lb (340g) bags, labeled by dish. |
+| Produce | Onions **2 medium (300g)**; garlic **14 cloves (42g) plus 2–3 teaspoons (10–15ml) minced** for alfredo (about 2 bulbs total); potatoes **1 lb (450g)**; carrots **2 medium, 8 oz (225g)**; cabbage **½ small, 8 oz (225g)**. |
+| Dairy/Eggs | **3 large eggs**: 2 katsu, 1 meatballs. |
+| Pantry — dinner-specific | Fettuccine **8 oz (225g)**; Rao's garlic alfredo sauce **1 × 15 oz (425g) jar**; panko **2 cups (120g)**; flour **½ cup (60g)**; dried pinto or black beans **1 lb (450g)**; no-salt-added diced tomatoes **1 × 14½ oz (410g) can**; no-salt-added ketchup **¼ cup (60g)**; Worcestershire **1 tablespoon (15ml)**, lower-sodium if available; honey **1 tablespoon (21g)**; bay leaves **2**. Bottled tonkatsu sauce **⅓ cup (80ml)** can replace the ketchup, Worcestershire and the sauce's soy/sugar below. |
+| Pantry — ★ use from staples | Rice **5 cups (950g)**: 1½ cups each for katsu and meatballs, plus 2 cups for garlic rice. Olive/neutral oil **15 tablespoons (225ml)**: 8 katsu, 1 meatballs, 1 picadinho, 3 rice/beans, 1 chicken bagging and 1 alfredo/searing. Low-sodium soy **1 tablespoon + 1 teaspoon (20ml)**: 1 tablespoon glaze, 1 teaspoon tonkatsu. White sugar **1 teaspoon (4g)** for tonkatsu; salt-free Italian herbs **1 teaspoon (1g)** for chicken bagging. No mirin needed this week. Fine salt **2 teaspoons (12g)**: ¼ each katsu and rice, ½ each meatballs, picadinho and beans; additional salt for alfredo pasta water as needed. |
+| Optional adult additions | Spicy mayo **already on hand** for meatballs; sriracha for katsu; hot sauce for picadinho. Keep out of the base recipes. |
 
 ## Swaps — use any time
 
