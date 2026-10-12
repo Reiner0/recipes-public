@@ -8,6 +8,8 @@ A personal collection of family recipes organized by course.
 
 **This month's dinners:** [Weeknight Rotation](weeknight-rotation.md)
 
+**Browse:** [Recipes by tag](tags.md)
+
 ---
 
 ## Mains

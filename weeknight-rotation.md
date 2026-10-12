@@ -2,13 +2,13 @@
 title: Weeknight Dinner Rotation
 tags: [recipe, planning, active]
 created: 2026-10-10
-modified: 2026-10-10
+modified: 2026-10-11
 layout: default
 ---
 
 # Weeknight Dinner Rotation
 
-Four home dinners per week; repeat this two-week cycle. Each dinner feeds 2 adults and 2 kids; thawing and Sunday cooking add unattended time.
+Four home dinners per week; repeat this two-week cycle. Each dinner feeds 2 adults and 2 kids; thawing and Sunday cooking add unattended time. [Browse weeknight recipes](tags.md?tag=weeknight).
 
 **Where to buy:** Costco for rice, low-sodium soy sauce and canned black beans; Seafood City for Asian pantry items; Vons pickup for meat, produce, dairy and the rest.
 
